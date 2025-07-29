@@ -29,7 +29,6 @@ We aim to **bridge the gap** between research and real-world clinical use.
 |--------|-------------|--------|
 | **Brain Tumor Classifier** | Classifies MRI images into Glioma, Meningioma, Pituitary & No Tumor using deep CNNs. | ✅ Live on [Streamlit](https://brain-tumor-classifiers.streamlit.app/) |
 | **COVID-Pneumonia Detector** | Detects COVID-19 and Pneumonia in X-rays using pretrained CNNs. | 🔄 In Progress |
-| **Dual U-Net Lane Detection** | For medical vehicle lane assist in emergency scenarios. | 🧪 Research Stage |
 
 ---
 
@@ -50,7 +49,6 @@ We are looking for:
 1. **Star** and **fork** any project repo.
 2. Check open issues and the roadmap.
 3. Follow the contribution guidelines in each repo.
-4. Join our [Discord community](#) *(coming soon)* or raise an issue to start collaborating.
 
 ---
 
@@ -65,7 +63,6 @@ Principal Lead: [Akshwin T](https://github.com/akshwin)
 ## 📢 Stay Connected
 
 - 📄 GitHub: [GitHub](https://github.com/OpenXHealth)
-- 🐦 Twitter: [@OpenXHealthAI](#)
 - 🔗 LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/openxhealth/)
 
 ---
