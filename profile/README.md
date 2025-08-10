@@ -29,6 +29,7 @@ We aim to **bridge the gap** between research and real-world clinical use.
 |--------|-------------|--------|
 | **Brain Tumor Classifier** | Classifies MRI images into Glioma, Meningioma, Pituitary & No Tumor using deep CNNs. | ✅ Live on [Streamlit](https://brain-tumor-classifiers.streamlit.app/) |
 | **Pneumonia Detector** | Detects Pneumonia in X-rays images using CNNs. | ✅ Live on [Streamlit](https://pneumonia-detector-app.streamlit.app/) |
+| **ICH Detector** | Detects ICH from MRI scans using  CNN and Attention mechanism. | ✅ Live on [Streamlit](https://intracranial-hemorrhage-detector.streamlit.app/) |
 | **Alzheimer Detector** | Detects Alzheimer from MRI scans using  CNNs. | ✅ Live on [Streamlit](https://alzheimer-stage-classifier.streamlit.app/) |
 
 ---
