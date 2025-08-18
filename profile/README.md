@@ -1,8 +1,7 @@
 # 🩺 OpenXHealth
+---
 
 Empowering Healthcare through Open Source AI Innovation
-
----
 
 Welcome to **OpenXHealth**, an open-source AI-driven healthcare research initiative on a mission to make medical intelligence more **accessible**, **ethical**, and **impactful** for everyone.
 
