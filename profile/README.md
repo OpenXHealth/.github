@@ -1,4 +1,9 @@
 # 🩺 OpenXHealth
+
+<a href="https://openxhealth.github.io/OpenXHealth-site/" target="_blank" style="background-color:#1976d2; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+🌐 Visit OpenXHealth Website
+</a>
+
 ---
 
 Empowering Healthcare through Open Source AI Innovation
@@ -28,18 +33,18 @@ We aim to **bridge the gap** between research and real-world clinical use.
 |--------|-------------|--------|
 | **Brain Tumor Classifier** | Classifies MRI images into Glioma, Meningioma, Pituitary & No Tumor using deep CNNs. | ✅ Live on [Streamlit](https://brain-tumor-classifiers.streamlit.app/) |
 | **Pneumonia Detector** | Detects Pneumonia in X-rays images using CNNs. | ✅ Live on [Streamlit](https://pneumonia-detector-app.streamlit.app/) |
-| **ICH Detector** | Detects ICH from MRI scans using  CNN and Attention mechanism. | ✅ Live on [Streamlit](https://intracranial-hemorrhage-detector.streamlit.app/) |
-| **Alzheimer Detector** | Detects Alzheimer from MRI scans using  CNNs. | ✅ Live on [Streamlit](https://alzheimer-stage-classifier.streamlit.app/) |
+| **ICH Detector** | Detects ICH from MRI scans using CNN and Attention mechanism. | ✅ Live on [Streamlit](https://intracranial-hemorrhage-detector.streamlit.app/) |
+| **Alzheimer Detector** | Detects Alzheimer from MRI scans using CNNs. | ✅ Live on [Streamlit](https://alzheimer-stage-classifier.streamlit.app/) |
 
 ---
 
 ## 🌐 Join Our Mission
 
-We are looking for:
-- 💻 Contributors in ML, data science, web, and visualization
-- 📊 Medical data annotation volunteers
-- 📚 Researchers & students passionate about AI4Health
-- 🩻 Radiologists and clinical collaborators
+We are looking for:  
+- 💻 Contributors in ML, data science, web, and visualization  
+- 📊 Medical data annotation volunteers  
+- 📚 Researchers & students passionate about AI4Health  
+- 🩻 Radiologists and clinical collaborators  
 
 > 💡 Whether you're a student, developer, doctor, or researcher — your contribution can **save lives**.
 
@@ -47,28 +52,27 @@ We are looking for:
 
 ## 🤝 How to Contribute
 
-1. **Star** and **fork** any project repo.
-2. Check open issues and the roadmap.
+1. **Star** and **fork** any project repo.  
+2. Check open issues and the roadmap.  
 3. Follow the contribution guidelines in each repo.
 
 ---
 
 ## 🧑‍💻 Maintainers
 
-OpenXHealth is led by a team of researchers, engineers, and healthcare enthusiasts who believe in **democratizing AI for good**. 
+OpenXHealth is led by a team of researchers, engineers, and healthcare enthusiasts who believe in **democratizing AI for good**.  
 
-Principal Lead: [Akshwin T](https://github.com/akshwin)
+Principal Lead: [Akshwin T](https://github.com/akshwint)
 
 ---
 
 ## 📢 Stay Connected
 
-- 📄 GitHub: [GitHub](https://github.com/OpenXHealth)
-- 🔗 LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/openxhealth/)
+- 🌐 Website:  
+  <a href="https://openxhealth.github.io/OpenXHealth-site/" target="_blank" style="background-color:#1976d2; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold;">🌐 Visit Website</a>  
+- 📄 GitHub: [https://github.com/OpenXHealth](https://github.com/OpenXHealth)  
+- 🔗 LinkedIn: [https://www.linkedin.com/company/openx-health/](https://www.linkedin.com/company/openx-health/)
 
 ---
 
 > ⚕️ *Open-source can save lives. Join us in building the future of healthcare.*
-
----
-
