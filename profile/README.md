@@ -1,8 +1,8 @@
 # 🩺 OpenXHealth
 ---
 
-🌐 **Visit Our Website:**  
-<a href="https://openxhealth.github.io/OpenXHealth-site/" target="_blank" style="display:inline-block; background-color:#1976d2; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; margin-bottom: 1rem;">🌐 OpenXHealth Website</a>
+[![OpenXHealth Website](https://img.shields.io/badge/🌐-OpenXHealth-blue)](https://openxhealth.github.io/OpenXHealth-site/)
+
 
 ---
 
