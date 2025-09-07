@@ -5,7 +5,7 @@ Empowering Healthcare through Open Source AI Innovation
 
 Welcome to **OpenXHealth**, an open-source AI-driven healthcare research initiative on a mission to make medical intelligence more **accessible**, **ethical**, and **impactful** for everyone.
 
-Visit out website ! ->  [![OpenXHealth Website](https://img.shields.io/badge/🌐-OpenXHealth-blue)](https://openxhealth.github.io/OpenXHealth-site/)
+Visit out website at [![OpenXHealth Website](https://img.shields.io/badge/🌐-OpenXHealth-blue)](https://openxhealth.github.io/OpenXHealth-site/)
 
 ## 🚀 Our Mission
 
