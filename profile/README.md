@@ -1,8 +1,8 @@
 # 🩺 OpenXHealth
+---
 
-<a href="https://openxhealth.github.io/OpenXHealth-site/" target="_blank" style="background-color:#1976d2; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
-🌐 Visit OpenXHealth Website
-</a>
+🌐 **Visit Our Website:**  
+<a href="https://openxhealth.github.io/OpenXHealth-site/" target="_blank" style="display:inline-block; background-color:#1976d2; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; margin-bottom: 1rem;">🌐 OpenXHealth Website</a>
 
 ---
 
@@ -40,7 +40,7 @@ We aim to **bridge the gap** between research and real-world clinical use.
 
 ## 🌐 Join Our Mission
 
-We are looking for:  
+We are looking for:
 - 💻 Contributors in ML, data science, web, and visualization  
 - 📊 Medical data annotation volunteers  
 - 📚 Researchers & students passionate about AI4Health  
@@ -60,16 +60,14 @@ We are looking for:
 
 ## 🧑‍💻 Maintainers
 
-OpenXHealth is led by a team of researchers, engineers, and healthcare enthusiasts who believe in **democratizing AI for good**.  
+OpenXHealth is led by a team of researchers, engineers, and healthcare enthusiasts who believe in **democratizing AI for good**.
 
-Principal Lead: [Akshwin T](https://github.com/akshwint)
+Principal Lead: [Akshwin T](https://github.com/akshwin)
 
 ---
 
 ## 📢 Stay Connected
 
-- 🌐 Website:  
-  <a href="https://openxhealth.github.io/OpenXHealth-site/" target="_blank" style="background-color:#1976d2; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold;">🌐 Visit Website</a>  
 - 📄 GitHub: [https://github.com/OpenXHealth](https://github.com/OpenXHealth)  
 - 🔗 LinkedIn: [https://www.linkedin.com/company/openx-health/](https://www.linkedin.com/company/openx-health/)
 
