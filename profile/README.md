@@ -7,7 +7,7 @@ Welcome to **OpenXHealth**, an open-source AI-driven healthcare research initiat
 
 <p align="center">
   <a href="https://openxhealth.github.io/OpenXHealth-site/">
-    <img src="https://img.shields.io/badge/🚀 Launch%20App-OpenX Health%20-brightgreen?style=for-the-badge" alt="Streamlit App" />
+    <img src="https://img.shields.io/badge/🚀 Website%-OpenX Health%20-brightgreen?style=for-the-badge" alt="Streamlit App" />
   </a>
 </p>
 
