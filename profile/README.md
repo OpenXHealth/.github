@@ -22,7 +22,8 @@ At OpenXHealth, we focus on applying **AI and deep learning** to medical imaging
 
 - 🧬 **Brain Tumor Classification** from MRI scans  
 - 🫁 **COVID-19 & Pneumonia Detection** via chest X-rays  
-- 🛣️ **Medical Anomaly Detection** with generative models & diffusion frameworks  
+- 🧠**Intracranial Haemorrhage Detection**
+- 🫁**Pneumonia Detection from X-Ray images**
 - 🏥 Building datasets, visualization tools, and explainability models (XAI)
 
 We aim to **bridge the gap** between research and real-world clinical use.
